@@ -131,7 +131,7 @@ CSGO,http://8.155.43.98:35455/huya/483917#http://8.155.43.98:35455/douyu/6200#ht
 三角洲行动,http://8.155.43.98:35455/huya/152792
 第五人格,http://8.155.43.98:35455/huya/idvesports#http://8.155.43.98:35455/huya/461698
 哒啵赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8#http://39.134.64.179:6610/PLTV/88888888/224/3221225675/index.m3u8?
-四海钓鱼,http://115.190.247.176:1111/637444975#http://47.104.178.59:3566/637444975
+四海钓鱼,http://47.104.178.59:3566/637444975
 快乐垂钓,http://zhangkx717.cn:9999/rtp/239.69.1.142:10488
 咪咕直播1,http://gslbserv.itv.cmvideo.cn:80/3000000001000005308/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=YanG-1989
 咪咕直播2,http://gslbserv.itv.cmvideo.cn:80/3000000001000005969/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=YanG-1989
